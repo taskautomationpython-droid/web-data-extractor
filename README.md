@@ -1,7 +1,3 @@
-# web-data-extractor
-Simple GUI tool to scrape data from any website. Extract text, links, and export to CSV/JSON. No coding required.
-
-
 # 🌐 Web Scraper Tool
 
 A simple GUI tool to extract data from any website using CSS selectors. No coding required.
